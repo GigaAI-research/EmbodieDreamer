@@ -1,5 +1,6 @@
 <div align="center">   
-  
+<img src="./assets/logo-removebg-preview.png" alt="Teaser Image" width="30%">
+
 # EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling
 
 </div>
